@@ -18,7 +18,7 @@ Welcome to my Github page! I am Fernando Zuleta and I am currently studying Fron
 - Seeking job 😑
 
 #### :muscle: Things I am challenging myself with:
-- Waking up earlie
+- Waking up earlier
 - Makes my chores
 - Go to work
 - Improving my CV
