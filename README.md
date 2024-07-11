@@ -7,7 +7,9 @@
 
 Welcome to my Github page! I am Fernando Zuleta and I am currently studying Front-end development.
 
-<img align="right" alt="img" src="[https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg](https://media.tenor.com/RDKQ6D9k2x4AAAAM/gif-ganon.gif)" width="50%" height="auto" />
+<img align="right" alt="img" src="https://avatars.akamai.steamstatic.com/0c9a94021a4b9b897b750edf401b0b21586f17be_full.jpg" width="300px" height="auto" />
+
+
 
 
 #### 🌱 Things I am currently working on: 
