@@ -9,7 +9,7 @@ I'm Fernando Zuleta, a professional graphic designer from Antofagasta, Chile, cu
 
 ## Quick Overview
 
-I work as a graphic designer at [Aion Innovation](https://aion.cl/), a company focused on training and education. Alongside my professional work, I'm pursuing a Front-end development bootcamp to expand my skill set.
+I work as a graphic designer at [Aion Innovation](https://aioninnovation.cl/), a company focused on training and education. Alongside my professional work, I'm pursuing a Front-end development bootcamp to expand my skill set.
 
 ### GitHub Stats  
 <a href="https://github.com/anuraghazra/github-readme-stats">
